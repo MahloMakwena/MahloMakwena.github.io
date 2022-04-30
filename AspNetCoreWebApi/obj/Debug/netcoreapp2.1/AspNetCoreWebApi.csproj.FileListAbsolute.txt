@@ -1,0 +1,14 @@
+C:\Users\tebele\source\repos\AspNetCoreWebApi\AspNetCoreWebApi\bin\Debug\netcoreapp2.1\AspNetCoreWebApi.deps.json
+C:\Users\tebele\source\repos\AspNetCoreWebApi\AspNetCoreWebApi\bin\Debug\netcoreapp2.1\AspNetCoreWebApi.runtimeconfig.json
+C:\Users\tebele\source\repos\AspNetCoreWebApi\AspNetCoreWebApi\bin\Debug\netcoreapp2.1\AspNetCoreWebApi.runtimeconfig.dev.json
+C:\Users\tebele\source\repos\AspNetCoreWebApi\AspNetCoreWebApi\bin\Debug\netcoreapp2.1\AspNetCoreWebApi.dll
+C:\Users\tebele\source\repos\AspNetCoreWebApi\AspNetCoreWebApi\bin\Debug\netcoreapp2.1\AspNetCoreWebApi.pdb
+C:\Users\tebele\source\repos\AspNetCoreWebApi\AspNetCoreWebApi\obj\Debug\netcoreapp2.1\AspNetCoreWebApi.csprojAssemblyReference.cache
+C:\Users\tebele\source\repos\AspNetCoreWebApi\AspNetCoreWebApi\obj\Debug\netcoreapp2.1\AspNetCoreWebApi.csproj.CoreCompileInputs.cache
+C:\Users\tebele\source\repos\AspNetCoreWebApi\AspNetCoreWebApi\obj\Debug\netcoreapp2.1\AspNetCoreWebApi.RazorAssemblyInfo.cache
+C:\Users\tebele\source\repos\AspNetCoreWebApi\AspNetCoreWebApi\obj\Debug\netcoreapp2.1\AspNetCoreWebApi.RazorAssemblyInfo.cs
+C:\Users\tebele\source\repos\AspNetCoreWebApi\AspNetCoreWebApi\obj\Debug\netcoreapp2.1\AspNetCoreWebApi.AssemblyInfoInputs.cache
+C:\Users\tebele\source\repos\AspNetCoreWebApi\AspNetCoreWebApi\obj\Debug\netcoreapp2.1\AspNetCoreWebApi.AssemblyInfo.cs
+C:\Users\tebele\source\repos\AspNetCoreWebApi\AspNetCoreWebApi\obj\Debug\netcoreapp2.1\AspNetCoreWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\tebele\source\repos\AspNetCoreWebApi\AspNetCoreWebApi\obj\Debug\netcoreapp2.1\AspNetCoreWebApi.dll
+C:\Users\tebele\source\repos\AspNetCoreWebApi\AspNetCoreWebApi\obj\Debug\netcoreapp2.1\AspNetCoreWebApi.pdb
